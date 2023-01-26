@@ -644,7 +644,7 @@ local function getObjGen()
             Gui.DropShadow_5.ScaleType = Enum.ScaleType.Slice
             Gui.DropShadow_5.SliceCenter = Rect.new(49, 49, 450, 450)
 
-            Gui.Label.Name = "nice"
+            Gui.Label.Name = "Label"
             Gui.Label.Parent = Gui.Text_4
             Gui.Label.Active = false
             Gui.Label.AnchorPoint = Vector2.new(0.5, 0.5)
